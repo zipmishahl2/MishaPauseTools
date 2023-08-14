@@ -12,7 +12,6 @@ A plugin for all your pausing needs.
     SDK                        | Folder
     -------------------------- | -----------------------------------------
     Old Engine mods            | `Source SDK Base\bin`
-    Half-Life: Source          | `hl1`
     Half-Life 2                | `hl2`
     Half-Life 2: Episode 1     | `episodic`
     Half-Life 2: Episode 2     | `ep2`
