@@ -1,5 +1,5 @@
 # Mpt_Mishamodhl_plugin
-[![Actions Status](https://github.com/zipmishahl2/Mpt_Mishamodhl_plugin/workflows/CI/badge.svg?branch=master)](https://github.com/zipmishahl2/Mpt_Mishamodhl_plugin/actions?query=branch%3Amaster)
+[![Status check](https://github.com/zipmishahl2/Mpt_Mishamodhl_plugin/workflows/CI/badge.svg?branch=master)](https://github.com/zipmishahl2/Mpt_Mishamodhl_plugin/actions?query=branch%3Amaster)
 
 A plugin for all your pausing needs.
 
