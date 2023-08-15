@@ -11,11 +11,9 @@ A plugin for all your pausing needs.
 3. Place the DLL into the correct folder:
     SDK                        | Folder
     -------------------------- | -----------------------------------------
-    Old Engine mods            | `Source SDK Base\bin`
-    Half-Life 2                | `hl2`
-    Half-Life 2: Episode 1     | `episodic`
-    Half-Life 2: Episode 2     | `ep2`
-    Half-Life 2: Lost Coast    | `lostcoast`
+    Old Engine mods            | `Source SDK Base\bin` ```will probably work```
+    Mishamodhl2               | `hl2`
+    Mishamodhl2ep2            | `ep2`
 4. Launch the game.
 5. Go to `Options > Keyboard > Advanced`, check `Enable developer console`, and press OK.
 6. Press the tilde key (<kbd>~</kbd>) and enter `plugin_load mpt` into the developer console.
